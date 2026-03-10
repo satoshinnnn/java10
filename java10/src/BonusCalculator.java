@@ -1,0 +1,5 @@
+interface BonusCalculator {
+
+    double getBonus();
+
+}
